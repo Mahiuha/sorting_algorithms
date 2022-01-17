@@ -1,9 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-
-<div align="center"><img src="images/SA.gif" width="600" height="500"/>
-
 # Sorting algorithms & Big O
 
 A Sorting Algorithm is used to rearrange a given array or data structure elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of element in the respective data structure.
