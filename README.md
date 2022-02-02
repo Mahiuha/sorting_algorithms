@@ -12,7 +12,7 @@ A Sorting Algorithm is used to rearrange a given array or data structure element
 
 [Sorting and Searching Algorithms](https://www.programiz.com/dsa/bubble-sort)
 
-[Comparar el crecimiento de funciones](https://t.co/Li4vvOIPDe?amp=1)
+[Compare Feature Growth](https://t.co/Li4vvOIPDe?amp=1)
 
 
 <div align="left">
